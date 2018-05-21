@@ -8,8 +8,11 @@
 * https://prism-kangaroo.glitch.me/search?hl=zh-CN
 * https://findle.cc/
 * https://wing.likeso.ml/
-* https://coderschool.2345.ga/
-* https://g.codery.ga/
+* https://coderschool.2345.ga/ （容易流量超限）
+* https://g.codery.ga/ （容易流量超限）
 * https://guge.bban.top/
-* https://huynh.kim/
+* https://huynh.kim/ （貌似不能搜索）
 * https://gsou.tk/webhp?hl=zh-CN
+* https://cc.scmor.site/
+* https://search.omycat.info/
+* https://hsplc.com/ （证书有问题）
