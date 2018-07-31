@@ -8,13 +8,13 @@
 * https://guge.bban.top/
 * https://gsou.tk/webhp?hl=zh-CN
 * https://search.omycat.info/
-* https://hsplc.com/ （证书有问题）
-* https://e.08800.top/webhp?hl=zh-CN
-* https://hk.free9.org/webhp?hl=zh-CN
-* https://ssdao2.00882.site/
 * https://aa.89089.site/
-* https://a.02822.site/
+* https://2.89089.site/
+* https://g.codery.ga/
+* https://cn.diduo.hk/search?hl=zh-CN （证书有问题）
+* http://84.200.50.48/ （非https）
 
 ### 学术搜索
 * https://f.glgooo.top/
 * https://xs.bban.top/scholar?hl=zh-CN
+* https://c3.glgooo.top/
