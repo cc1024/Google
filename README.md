@@ -13,6 +13,7 @@
 * https://g.codery.ga/
 * https://cn.diduo.hk/search?hl=zh-CN （证书有问题）
 * http://84.200.50.48/ （非https）
+* https://wing.likeso.ml/
 
 ### 学术搜索
 * https://f.glgooo.top/
