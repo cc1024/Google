@@ -14,6 +14,9 @@
 * https://cn.diduo.hk/search?hl=zh-CN （证书有问题）
 * http://84.200.50.48/ （非https）
 * https://wing.likeso.ml/
+* https://e.08800.top/webhp?hl=zh-CN
+* https://d1.08800.top/webhp?hl=zh-CN
+* https://ggvip.zgdhhjha.com/
 
 ### 学术搜索
 * https://f.glgooo.top/
