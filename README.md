@@ -5,18 +5,15 @@
 
 ### 网页搜索
 * https://prism-kangaroo.glitch.me/search?hl=zh-CN
-* https://guge.bban.top/
 * https://gsou.tk/webhp?hl=zh-CN
 * https://search.omycat.info/
 * https://aa.89089.site/
 * https://2.89089.site/
 * https://g.codery.ga/
 * https://cn.diduo.hk/search?hl=zh-CN （证书有问题）
-* http://84.200.50.48/ （非https）
 * https://wing.likeso.ml/
-* https://e.08800.top/webhp?hl=zh-CN
-* https://d1.08800.top/webhp?hl=zh-CN
-* https://ggvip.zgdhhjha.com/
+* https://ggvip.zgdhhjha.com/ （有广告）
+* https://hk.free9.org/webhp?hl=zh-CN
 
 ### 学术搜索
 * https://f.glgooo.top/
