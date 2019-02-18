@@ -5,21 +5,20 @@
 
 ### 网页搜索
 * https://gg.myhost.pub/webhp?hl=zh-CN
-* https://g.excited.im/webhp?hl=zh-CN
-* https://www.heyangli.top/
-* https://f1.aigg.men/
-* https://kfd.me/
-* https://g.zmirrordemo.com/
-* https://g.imwap.cn
+* https://prism-kangaroo.glitch.me/webhp?hl=zh-CN
+* https://eu.baiduio.ga/webhp?hl=zh-CN
+* https://g.fmage.com/
+* https://kfd.me/ 
+* https://g.annhe.net/webhp?hl=zh-CN
+* https://ggvip.zgdhhjha.com/
+* https://www.heyangli.top/ （暂时无法使用，需要验证码）
+* https://po6cs09eom1c.runkit.sh/
 * http://gsou.tk/webhp?hl=zh-CN
-* https://g.annhe.net/webhp?hl=zh-CN （暂时无法使用，需要验证码）
-* https://prism-kangaroo.glitch.me/webhp?hl=zh-CN （暂时无法使用，需要验证码）
-* https://search.omycat.info/ （证书有问题）
-* https://1.gugess.site/webhp?hl=zh-CN 
-* https://ggvip.zgdhhjha.com/ （有广告）
 
 
 ### 学术搜索
 * https://f.glgooo.top/
-* https://xs.bban.top/scholar?hl=zh-CN
+* https://cc.glgoo.top/scholar?hl=zh-CN
 * https://c3.glgooo.top/
+* https://prism-kangaroo.glitch.me/scholar?hl=zh-CN
+* https://ggvip.zgdhhjha.com/extdomains/scholar.google.com.hk/scholar?hl=zh-CN
