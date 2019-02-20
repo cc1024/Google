@@ -14,6 +14,9 @@
 * https://www.heyangli.top/ （暂时无法使用，需要验证码）
 * https://po6cs09eom1c.runkit.sh/
 * http://gsou.tk/webhp?hl=zh-CN
+* https://g.louqunhua.top/webhp?hl=zh-CN
+* http://google.gdsnet.cn/ （非https）
+* https://g.pe.gs/
 
 
 ### 学术搜索
@@ -22,3 +25,4 @@
 * https://c3.glgooo.top/
 * https://prism-kangaroo.glitch.me/scholar?hl=zh-CN
 * https://ggvip.zgdhhjha.com/extdomains/scholar.google.com.hk/scholar?hl=zh-CN
+* https://scholar.soogle.top/
