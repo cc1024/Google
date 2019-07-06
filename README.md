@@ -7,6 +7,7 @@
 * https://prism-kangaroo.glitch.me/webhp?hl=zh-CN
 * https://google98.azurewebsites.net/webhp?hl=zh-CN
 * https://hdme.ml/webhp?hl=zh-CN
+* https://gugeji.com/
 
 
 
@@ -16,5 +17,4 @@
 * https://c3.glgooo.top/
 * https://b.glgooo.top/
 * https://prism-kangaroo.glitch.me/scholar?hl=zh-CN
-* https://ggvip.zgdhhjha.com/extdomains/scholar.google.com.hk/scholar?hl=zh-CN
 * https://xueshu.soogle.top/
