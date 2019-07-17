@@ -7,7 +7,7 @@
 * https://prism-kangaroo.glitch.me/webhp?hl=zh-CN
 * https://google98.azurewebsites.net/webhp?hl=zh-CN
 * https://hdme.ml/webhp?hl=zh-CN
-* https://gugeji.com/
+* https://g.lxx.im/webhp?hl=zh-CN
 * https://po6cs09eom1c.runkit.sh/webhp?hl=zh-CN
 * https://untitled-b8ucgk1d91in.runkit.sh/webhp?hl=zh-CN
 
@@ -20,3 +20,4 @@
 * https://b.glgooo.top/
 * https://prism-kangaroo.glitch.me/scholar?hl=zh-CN
 * https://xueshu.soogle.top/
+* http://103.115.58.35:9007/
