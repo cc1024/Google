@@ -5,7 +5,6 @@
 
 ### 网页搜索
 * https://google98.azurewebsites.net/webhp?hl=zh-CN
-* https://g.lxx.im/webhp?hl=zh-CN
 * https://po6cs09eom1c.runkit.sh/webhp?hl=zh-CN
 * https://untitled-b8ucgk1d91in.runkit.sh/webhp?hl=zh-CN
 * https://s.isway.cn/
