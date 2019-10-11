@@ -8,7 +8,6 @@
 * https://po6cs09eom1c.runkit.sh/webhp?hl=zh-CN
 * https://untitled-b8ucgk1d91in.runkit.sh/webhp?hl=zh-CN
 * https://s.isway.cn/
-* https://d8ngmj85xjhrc0u3.xn--1-7sb.net/?hl=zh_CN
 * https://gsearch.azurewebsites.net/
 * https://dugodugo.com/webhp?hl=zh-CN
 
@@ -19,6 +18,3 @@
 * https://cc.glgoo.top/scholar?hl=zh-CN
 * https://c3.glgooo.top/
 * https://b.glgooo.top/
-* https://prism-kangaroo.glitch.me/scholar?hl=zh-CN
-* https://xueshu.soogle.top/
-* http://103.115.58.35:9007/
