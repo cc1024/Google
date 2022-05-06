@@ -4,22 +4,26 @@
 >*以下所有网址收集自互联网，感谢为人类进步做出贡献的每一人！*
 
 ### 网页搜索
-* https://g.zeit.fun/webhp?hl=zh-CN
-* https://www.lovec.ltd/webhp?hl=zh-CN
+* https://xn--flw351e.ml/
+* https://search.aust.cf/
+* https://search.ecnu.cf/
+* https://search.ahnu.cf/
+* https://search.njau.cf/
 * https://g80.i-research.edu.eu.org
 * https://www.sanzhima.com/
 * http://g.histsci.org
-* http://g.acerchen.com
+* https://google.icloudnative.io/
 
 
 
 
 ### 学术搜索
-* https://g0.njuu.cf/extdomains/scholar.google.com.sg/scholar?hl=zh-CN （羊肉面）
-* https://xueshu.soogle.top/
+* https://scholar.ustc.cf/
+* https://sci-hub.org.cn/
 * https://xueshu.lanfanshu.cn/
 * https://sc.panda321.com/
 * https://g80.i-research.edu.eu.org/ggxs/
+* https://so.hiqq.com.cn/
 
 
 
