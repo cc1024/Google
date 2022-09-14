@@ -5,13 +5,10 @@
 
 ### 网页搜索
 * https://xn--flw351e.ml/
-* https://search.aust.cf/
+* https://note.cm/
 * https://search.ecnu.cf/
-* https://search.ahnu.cf/
-* https://search.njau.cf/
 * https://g80.i-research.edu.eu.org
-* https://www.sanzhima.com/
-* http://g.histsci.org
+* https://g13.i-research.edu.eu.org/
 * https://google.icloudnative.io/
 * http://47.242.76.183/
 
@@ -19,12 +16,9 @@
 
 
 ### 学术搜索
-* https://scholar.ustc.cf/
 * https://sci-hub.org.cn/
 * https://xueshu.lanfanshu.cn/
-* https://sc.panda321.com/
 * https://g80.i-research.edu.eu.org/ggxs/
-* https://so.hiqq.com.cn/
 
 
 
